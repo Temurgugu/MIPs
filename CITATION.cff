@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data set and visualization, please cite it as below."
+authors:
+- family-names: "Gugushvili"
+  given-names: "Temur"
+  orcid: "https://orcid.org/0000-0003-0650-9740"
+type: dataset
+title: "The road mega-infrastructure projects (mips) in Georgia - data set and visualizations"
+version: 
+doi: 09.03/roadmipsgeorgia.2023
+date-released: 2023-04-04
+url: "https://github.com/Temurgugu/MIPs"
+keywords:
+  - MIPs
+  - road
+  - Georgia
