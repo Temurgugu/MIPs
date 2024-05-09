@@ -14,3 +14,7 @@ keywords:
   - MIPs
   - road
   - Georgia
+references:
+  - authors:
+      - name: "Roads Department of Georgia"
+    Scope: The dataset was compiled using publicly available data from the website of the Roads Department of Georgia. Additional data was requested directly from the Roads Department to supplement the existing information."
